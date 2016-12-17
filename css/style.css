@@ -1,0 +1,15 @@
+body{
+	background-color: #f0f0f0;
+}
+.form{
+	margin-top: 100px
+}
+.forms{
+	margin-top: 20px
+}
+td:first-child{
+	color: #777;
+}
+td{
+	vertical-align: top;
+}
